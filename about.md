@@ -54,3 +54,6 @@ Part of our Internet-For-All campaign, KOOMPI Wi-Fi is a fast fiber or 4G networ
 KOOMPI Research Lab is open to all individuals who are interested in learning through hands-on experience. We encourage our apprentices to follow their subjects of interest and relevance so that their knowledge will be applicable. For the duration of the apprenticeship, they can contribute to projects at KOOMPI and receive guidance from senior members and staff. 
 
 Now that we know some fun facts about KOOMPI, we will discuss the types of available operating systems that computer users can choose from. In the next pages, 
+
+---
+---
