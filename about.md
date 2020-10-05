@@ -1,6 +1,6 @@
 ## About
 
-We don’t define KOOMPI as a computer company. Instead, it’s a people-oriented technology and development project that keeps evolving. Though our notebook products are one of our proudest achievements, there is so much more we strive to accomplish. Before we get into the “useful” part of the book, let us take a look at how KOOMPI came to be what it is today and what we are working on.
+We do not define KOOMPI as a computer company. Instead, it’s a people-oriented technology and development project that keeps evolving. Though our notebook products are one of our proudest achievements, there is so much more we strive to accomplish. Before we get into the “useful” part of the book, let us take a look at how KOOMPI came to be what it is today and what we are working on.
 
 Chosen as a symbol of knowledge and self-empowerment, the word KOOMPI derives from the Khmer phrase, "books or source of knowledge."
 

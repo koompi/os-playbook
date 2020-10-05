@@ -11,4 +11,5 @@ This book aims to answer the following questions:
 This playbook is not exclusively useful for KOOMPI OS users, but any user who is interested in open source projects and software. 
 
 Explore our online manual at https://koompi.org
+
 Get our codes at https://github.com/koompi 
