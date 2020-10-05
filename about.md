@@ -17,7 +17,7 @@ You probably used to wonder: Why would KOOMPI use its own operating system when 
 
 KOOMPI didn’t start off as a computer brand. It was purely a recycling project. 
 
-It all began at SmallWorld's first old office, KOOMPI’s parent company that deserves a book of itself  to tell its story. 
+It all began at SmallWorld's first old office, KOOMPI’s parent company that deserves a book of itself  to tell its story.
 
 Around the end of 2012, we partnered with recycles.org to gather old computers. Through email groups such as Yahoo group and Google group, we connect with many organizations and individuals who upgraded their computer and leave the older ones unused. We made sure the hardware was still usable and refurbished them. We wiped out the old system that came with it, and reloaded it with our own customized Linux based OS. Back then, the OS was called many random names. Few of which, what we can remember, were Meombao OS or ButterflyOS. 
 
