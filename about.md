@@ -1,4 +1,7 @@
 ## About
+KOOMPI is a technology development company based in Cambodia that designs and builds solutions-oriented productivity tools for next-generation doers and innovators.
+
+KOOMPI products are designed, assembled, and programmed with customized software developed in Cambodia, while certain key hardware components are outsourced from China due to our present lack of local production facilities. 
 
 We do not define KOOMPI as a computer company. Instead, it’s a people-oriented technology and development project that keeps evolving. Though our notebook products are one of our proudest achievements, there is so much more we strive to accomplish. Before we get into the “useful” part of the book, let us take a look at how KOOMPI came to be what it is today and what we are working on.
 
