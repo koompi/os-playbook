@@ -1,4 +1,7 @@
 ## About
+KOOMPI is a technology development company based in Cambodia that designs and builds solutions-oriented productivity tools for next-generation doers and innovators.
+
+KOOMPI products are designed, assembled, and programmed with customized software developed in Cambodia, while certain key hardware components are outsourced from China due to our present lack of local production facilities. 
 
 We do not define KOOMPI as a computer company. Instead, it’s a people-oriented technology and development project that keeps evolving. Though our notebook products are one of our proudest achievements, there is so much more we strive to accomplish. Before we get into the “useful” part of the book, let us take a look at how KOOMPI came to be what it is today and what we are working on.
 
@@ -17,9 +20,9 @@ You probably used to wonder: Why would KOOMPI use its own operating system when 
 
 KOOMPI didn’t start off as a computer brand. It was purely a recycling project. 
 
-It all began at SmallWorld's first old office, KOOMPI’s parent company that deserves a book of itself  to tell its story. 
+It all began at SmallWorld's first old office, KOOMPI’s parent company that deserves a book of itself  to tell its story.
 
-Around the end of 2012, we partnered with recycles.org to gather old computers. Through email groups such as Yahoo group and Google group, we connect with many organizations and individuals who upgraded their computer and leave the older ones unused. We made sure the hardware was still usable and refurbished them. We wiped out the old system that came with it, and reloaded it with our own customized Linux based OS. Back then, the OS was called many random names. Few of which, what we can remember, were Meombao OS or ButterflyOS. 
+KOOMPI started as a recycling project. Around the end of 2012, we partnered with recycles.org to gather old computers. Through email groups such as Yahoo group and Google group, we connect with many organizations and individuals who upgraded their computer and leave the older ones unused. We made sure the hardware was still usable and refurbished them, wiped out the old system that came with it, and reloaded with our own customized Linux OS. Once it is done we give them to high school students and freshmen. 
 
 After a few months of collection, two rooms of office were full of old computers, both laptops and old CPU. Not only that we were offered printers, monitors, phones and all sorts of other electronics appliances . We were only interested in laptops and computers’ parts. So we sorted the ones good enough to be used and were donated to high school students and freshmen.
 

@@ -1,4 +1,4 @@
-## What is an operating system?
+# What is an operating system?
 
 An operating system (OS) is the program that manages all other application programs in the computer. Without an operating system, a computer is practically useless. In other words, a computer’s OS (software) is the brain that runs the body (hardware). This does not mean that the computer’s hardware is less important. However, a compatible OS will ensure that your computer reaches its optimal performance. 
 
@@ -36,6 +36,12 @@ As you may have known, KOOMPI OS is an open source suite that is derived from Li
 
 ### Popular open-source operating systems
 Some widely used programs, platforms, and languages which are considered open source are: Linux operating system, Android by Google, and Open office. All free software is open source, but not all open source software is free. As KOOMPI OS is derived from Arch Linux, we will choose to talk exclusively about Linux and its various distributions before going into details about KOOMPI OS. 
+
+If you are already familiar with using Linux, you may skip this section and dive right into the next chapter. 
+
+### Popular open-source operating systems
+
+Some widely used programs, platforms, and languages which are considered open source are: Linux operating system, Android by Google, and Open office. All free software is open source, but not all open source software is free. As KOOMPI OS is derived from Arch Linux, we will choose to talk exclusively about Linux and its various distributions before going into details about KOOMPI OS.
 
 ---
 ---
