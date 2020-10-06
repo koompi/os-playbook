@@ -32,7 +32,7 @@ Here are two ways to install KOOMPI OS (on KOOMPI notebooks and other laptops):
 
     Install the Etcher. 
 
-    Download the OS source through this repo.koompi.org. 
+    Download the OS source through this [Link](repo.koompi.org). 
 
     Move those sources into the USB and start making it a bootable drive. 
 
@@ -47,4 +47,8 @@ Here are two ways to install KOOMPI OS (on KOOMPI notebooks and other laptops):
     After that Select the USB. 
 
     After that you will run some process and when it is finished, your screen is going to show Desktop. 
-Connect to the Internet and Click on App uses for installing and follows the instructions have been given. 
+
+    Connect to the Internet and Click on App uses for installing and follows the instructions have been given. 
+
+---
+---
