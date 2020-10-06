@@ -28,13 +28,13 @@ macOS (previously called OS X) is a line of operating systems created by Apple. 
 macOS users account for less than **14%** of global operating systems—much lower than the percentage of Windows users (Windows 10 – 39.22%, Windows 7 – 33.38%). One reason for this is that Apple computers tend to be more expensive. However, many people do prefer the look and feel of macOS over Windows. Linux users account for between **1.74** to **2.18%** of global operating systems. However, most **servers** run Linux because it's relatively easy to customize.
 
 ### Why go open source?
-- Accessibility: With open-source software, users can dig deeper, customize, and modify software by themselves to see how it works.
-- Affordable: Since it’s an open-source software, there is no need for expensive licenses.
-- Security: When there is a bug in the software, for example, any developer around the world can volunteer to maintain and fix it on time without needing any authorization.
+- **Accessibility**: With open-source software, users can dig deeper, customize, and modify software by themselves to see how it works.
+- **Affordable**: Since it’s an open-source software, there is no need for expensive licenses.
+- **Security**: When there is a bug in the software, for example, any developer around the world can volunteer to maintain and fix it on time without needing any authorization.
 
 As you may have known, KOOMPI OS is an open source suite that is derived from Linux. In the next pages, we will introduce you to Linux before going into a detailed manual for KOOMPI OS. If you are already familiar with using Linux, you may skip this section and dive right into the next chapter. 
 
-### List of open source operating systems
+### Popular open-source operating systems
 Some widely used programs, platforms, and languages which are considered open source are: Linux operating system, Android by Google, and Open office. All free software is open source, but not all open source software is free. As KOOMPI OS is derived from Arch Linux, we will choose to talk exclusively about Linux and its various distributions before going into details about KOOMPI OS. 
 
 ---
