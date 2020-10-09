@@ -5,7 +5,7 @@ KOOMPI Desktop Environment is based on KDE – a highly customizable desktop wit
 
 - **KOOMPI THEME:** The original theme of KOOMPI OS. It looks simple and clean. The taskbar is stationed at the top of the desktop.
 - **KOOMPI MOSX THEME:** It looks similar to the KOOMPI Theme but it has a new feature called PLANK which allows you to pin your favorite applications on it.
-- **KOOMPI WINX THEME:** This theme has two task bars, one at the top and another one at the bottom. When you click KOOMPI logo in the top taskbar, it shows the application list. If you click the bottom one, it shows a platform that allows you to search for applications.
+- **KOOMPI WINX THEME:** This theme has a task bar at the bottom of the desktop. If you click the bottom one, it shows a platform that allows you to search for applications.
 
 You can set desktop environments through an application named KOOMPI Themes, located by default on the desktop screen. You can also search for it in the Application List. Although each of the themes has its own unique look, most of the modules are still used similarly.
 
@@ -137,7 +137,14 @@ This is the setting that controls the connection in the system such as WiFi (Wir
 *Info: Make sure your device is in the range of the WiFi or cellular network.*
 
 #### Settings
-**Coming soon!!!**
+These are the modules that you use for access to the network.
+- **Proxy:**  This gateway allows you to send and get the information while connecting to the network. 
+- **Connection Preference:** It is the configuration that allows you to set timeout of your gateway.
+SSL Preference: An integral part of the website security layer.
+- **Cache:** The section allows you to set how much data to save on your network . You can  also set the size of data you want to keep. If you have downloaded the data before and you want to download it again, it will download faster because your network is familiar with the data already. 
+- **Cookie:** Allow/ Deny Cookies -- Cookies are put on your computer by websites so that they can track your activities. Your computer will save your configuration for some websites, for example, Facebook.
+- **Browser Identification:** Your public browser identity is exposed on the network. However, users can configure their browser identity without compromising personal information. 
+- **Windows Shares:** It is a private network created by Windows that allows users to have remote access to every disk volume on a network-connected system. 
 #### Bluetooth
 Bluetooth is a technology that exchanges data between one device to other devices at a short distance through frequency using short-wavelength.
 
